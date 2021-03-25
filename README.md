@@ -26,4 +26,4 @@ The Arduino Nano 33 IoT mounted on the car receives input from the IR distance s
 
 ## Installation Instructions:
 
-![A schematic diagram of an Arduino Nano 33 IoT connected to 2 IR distance sensors and 2 N20 motors through a TB6612FNG Motor Driver](https://github.com/yonatanrozin/Space-Mapper-Car/blob/main/images/Space-Mapper%20Schematic)
+![A schematic diagram of an Arduino Nano 33 IoT connected to 2 IR distance sensors and 2 N20 motors through a TB6612FNG Motor Driver](https://github.com/yonatanrozin/Space-Mapper-Car/blob/main/images/Space-Mapper%20Schematic?raw=true)
