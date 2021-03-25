@@ -38,3 +38,4 @@ The Arduino Nano 33 IoT mounted on the car receives input from the IR distance s
 - Open p5.serialcontrol app, make sure Arduino USB port is visible in the Available Ports list
 - Upload [Arduino Code](https://github.com/yonatanrozin/Space-Mapper-Car/blob/main/Arduino/Space_Mapper_Car_Full.ino) to Arduino Board, making sure the USB port is selected in Tools/Port
 - Open [p5.js sketch](https://editor.p5js.org/yr2053/full/aXnxBpDo4)
+- Restart p5.serialcontrol app if necessary
