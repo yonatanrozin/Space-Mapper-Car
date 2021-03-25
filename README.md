@@ -18,6 +18,13 @@ The Arduino Nano 33 IoT mounted on the car receives input from the IR distance s
 - 2 [N20 Encoded Gearmotors (1:298)](https://www.adafruit.com/product/4641)
 - 2 [Sharp IR distance sensors (10-80cm)](https://www.adafruit.com/product/164)
 
+## Software
+
+- The [Arduino IDE](https://www.arduino.cc/en/software)
+- The [p5.js Web Editor](https://editor.p5js.org/)
+- The [p5.SerialControl app](https://github.com/p5-serial/p5.serialcontrol/releases), which allows the p5.js Web Editor to receive serial data
+
+
 
 ## Installation Instructions:
 
