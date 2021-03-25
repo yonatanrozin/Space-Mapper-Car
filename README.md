@@ -24,7 +24,6 @@ The Arduino Nano 33 IoT mounted on the car receives input from the IR distance s
 - The [p5.js Web Editor](https://editor.p5js.org/)
 - The [p5.SerialControl app](https://github.com/p5-serial/p5.serialcontrol/releases): this allows the p5.js Web Editor to receive and send serial data
 
-
-
 ## Installation Instructions:
+
 
