@@ -13,12 +13,14 @@ The Arduino Nano 33 IoT mounted on the car receives input from the IR distance s
 
 ## Materials
 
+### Hardware
+
 - An [Arduino Nano 33 IoT](https://store.arduino.cc/usa/nano-33-iot) 
 - A [TB6612FNG Motor Driver](https://www.digikey.com/catalog/en/partgroup/sparkfun-motor-driver-dual-tb6612fng/77350?utm_adgroup=General&utm_source=google&utm_medium=cpc&utm_campaign=Dynamic%20Search_EN_RLSA_Cart&utm_term=&utm_content=General&gclid=CjwKCAjw6fCCBhBNEiwAem5SOxlKTUwhOICaOWppYjjd_7NRXeuuupc6Qg5i4EwhrP_Fxs8bAraEchoCxeYQAvD_BwE)
 - 2 [N20 Encoded Gearmotors (1:298)](https://www.adafruit.com/product/4641)
 - 2 [Sharp IR distance sensors (10-80cm)](https://www.adafruit.com/product/164)
 
-## Software
+### Software
 
 - The [Arduino IDE](https://www.arduino.cc/en/software)
 - The [p5.js Web Editor](https://editor.p5js.org/)
