@@ -53,6 +53,7 @@ For users and developers"
 - Upload [Arduino Code](https://github.com/yonatanrozin/Space-Mapper-Car/blob/main/Arduino/Space_Mapper_Car_Full.ino) to Arduino Board, making sure the USB port is selected in Tools/Port
 - Open and run [p5.js sketch](https://editor.p5js.org/yr2053/full/aXnxBpDo4)
 - Restart p5.serialcontrol app when necessary
+- An in-depth code breakdown can be found on [my blog](https://wp.nyu.edu/yonatanrozin/space-mapper-car/).
 
 ## Credits
 
