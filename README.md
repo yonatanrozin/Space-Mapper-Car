@@ -12,6 +12,7 @@ The car's purpose is essentially to function as a "remote ruler"; as it drives b
 The Arduino Nano 33 IoT mounted on the car receives input from the IR distance sensors, as well as 2 rotary encoders attached to the car's motors. These 4 values are constantly being communicated to the p5.js sketch, which uses the encoder values and a series of static measurements to calculate how much the car has moved or how by how many degrees the car has rotated since the last update (at a rate of roughly 30 updates per second). The location of any new points on the graph is then triangulated using the car's angle and position relative to its starting point and the reading from the distance sensors.
 
 This project was presented in the ITP 2020 Winter Show, which was hosted over Yorb, an AR virtual space that allowed participants to share screen recordings on virtual stages. A demonstration of the car in action can be seen on the Coding Train's live coverage of the show below:
+
 [![](http://img.youtube.com/vi/Az0l48Jirdg/0.jpg)](http://www.youtube.com/watch?v=Az0l48Jirdg "Coding Train ITP Winter Show 2020 Coverage")
 
 
