@@ -23,7 +23,7 @@ The Arduino Nano 33 IoT mounted on the car receives input from the IR distance s
 ### Software
 
 - The [Arduino IDE](https://www.arduino.cc/en/software)
-- The [p5.js Web Editor](https://editor.p5js.org/) with the [p5.serialport library](https://github.com/p5-serial/p5.serialport) installed
+- The [p5.js Web Editor](https://editor.p5js.org/)
 - The [p5.SerialControl app](https://github.com/p5-serial/p5.serialcontrol/releases): this allows the p5.js Web Editor to receive and send serial data
 - The [Space-Mapper Car p5.js sketch](https://editor.p5js.org/yr2053/full/aXnxBpDo4)
 
