@@ -1,11 +1,12 @@
 # Space-Mapper-Car Prototype
 A remote-controlled car that uses an IR distance sensor to measure and graph objects on screen.
+A more in-depth look into the functionality and process of this project can be found on [my blog](https://wp.nyu.edu/yonatanrozin/space-mapper-car/).
 
 ## Introduction
 
 Space-Mapper Car was conceived as the final project for my Physical Computing course, the guidelines for which can be found [here](https://itp.nyu.edu/physcomp/itp/syllabus/assignments/#Project_3). The project entailed any physical computing project which relied on microcontroller-to-PC communication through one of a choice of several protocols. 
 
-My communication of choice ended up as an asynchronous serial connection between an Arduino Nano 33 IoT and a p5.js sketch on my PC through a USB cable. Though my initial desire was to use Bluetooth LE to allow for wireless communication, I had to resort to a wired serial connection in the interest of time, though I would eventually revisit the project to add a wireless BLE controller for a different course.
+My communication of choice ended up as an asynchronous serial connection between an Arduino Nano 33 IoT and a p5.js sketch on my PC through a USB cable. Though my initial desire was to use Bluetooth LE to allow for wireless communication, I had to resort to a wired serial connection in the interest of time. I have since added wireless bluetooth controls to a newer version of this project which can be found [here](https://github.com/yonatanrozin/BLE-Car).
 
 The car's purpose is essentially to function as a "remote ruler"; as it drives by objects on its right side, it maps out the edges of those objects on screen. The car can  graph the length of any straight object, regardless of its position and angle relative to the path of the car (allowing it to measure, for example, diagonal objects), and can also roughly graph the contours of round objects such as cups or bowls placed on their side. The sketch allows the real-world equivalent of the distance between any 2 points on the graph to be measured by clicking on them in order, returning a measurement that has been found to be roughly 95% accurate. 
 
@@ -18,7 +19,6 @@ This project was presented in the ITP 2020 Winter Show, which was hosted over Yo
 For increased visibility, here's a quick demonstration of the space-mapping function from a top-down view:
 
 [![](http://img.youtube.com/vi/_OoUGzH3PhM/0.jpg)](http://www.youtube.com/watch?v=_OoUGzH3PhM "Space-Mapping Function in p5")
-
 
 
 ## Materials
@@ -51,8 +51,8 @@ For users and developers"
 - Connect Arduino to PC using USB cable
 - Open p5.serialcontrol app, make sure Arduino USB port is visible in the Available Ports list
 - Upload [Arduino Code](https://github.com/yonatanrozin/Space-Mapper-Car/blob/main/Arduino/Space_Mapper_Car_Full.ino) to Arduino Board, making sure the USB port is selected in Tools/Port
-- Open [p5.js sketch](https://editor.p5js.org/yr2053/full/aXnxBpDo4)
-- Restart p5.serialcontrol app if necessary
+- Open and run [p5.js sketch](https://editor.p5js.org/yr2053/full/aXnxBpDo4)
+- Restart p5.serialcontrol app when necessary
 
 ## Credits
 
