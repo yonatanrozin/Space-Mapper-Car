@@ -15,6 +15,11 @@ This project was presented in the ITP 2020 Winter Show, which was hosted over Yo
 
 [![](http://img.youtube.com/vi/Az0l48Jirdg/0.jpg)](http://www.youtube.com/watch?v=Az0l48Jirdg "Coding Train ITP Winter Show 2020 Coverage")
 
+For increased visibility, here's a quick demonstration of the space-mapping function from a top-down view:
+
+[![](http://img.youtube.com/vi/_OoUGzH3PhM/0.jpg)](http://www.youtube.com/watch?v=_OoUGzH3PhM "Space-Mapping Function in p5")
+
+
 
 ## Materials
 
