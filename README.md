@@ -36,7 +36,7 @@ For users and developers"
 - The [p5.SerialControl app](https://github.com/p5-serial/p5.serialcontrol/releases): this allows the p5.js Web Editor to receive and send serial data
 - The [Space-Mapper Car p5.js sketch](https://editor.p5js.org/yr2053/full/aXnxBpDo4)
 
-## Installation Instructions:
+## Installation Instructions
 
 ### Schematic Diagram
 
@@ -48,3 +48,9 @@ For users and developers"
 - Upload [Arduino Code](https://github.com/yonatanrozin/Space-Mapper-Car/blob/main/Arduino/Space_Mapper_Car_Full.ino) to Arduino Board, making sure the USB port is selected in Tools/Port
 - Open [p5.js sketch](https://editor.p5js.org/yr2053/full/aXnxBpDo4)
 - Restart p5.serialcontrol app if necessary
+
+## Credits
+
+- A huge thanks to [David Rios](https://riosriosrios.com/) for bestowing upon me and my other classmates the knowledge and inspiration necessary to make this project happen!
+- Additional thanks to all the ITP students and faculty involved in curating this year's virtual [ITP Winter Show](https://itp.nyu.edu/shows/winter2020/)
+- Finally, a shoutout to [Dan Shiffman](https://shiffman.net/) for showcasing a demonstration of my project during a livestream of the ITP Winter Show on his channel [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)!
