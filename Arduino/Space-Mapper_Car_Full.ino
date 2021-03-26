@@ -8,8 +8,8 @@
 #define L1 10 //AI1
 #define L2 9 //AI2
 
-#define encoderR2 2 //C1 on side sensor
-#define encoderL2 3 //C1 on front sensor
+#define encoderR1 2 //C1 on side sensor
+#define encoderL1 3 //C1 on front sensor
 
 #define IRF A1 //IR sensor inputs 
 #define IRR A0
