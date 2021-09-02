@@ -1,6 +1,6 @@
 # Space-Mapper-Car Prototype
 A remote-controlled car that uses an IR distance sensor to measure and graph objects on screen.
-A more in-depth look into the functionality and process of this project can be found on [my blog](https://wp.nyu.edu/yonatanrozin/space-mapper-car/). A quick demonstration from a top-down view can be found [here](http://www.youtube.com/watch?v=_OoUGzH3PhM) and a live demonstration from the ITP 2020 Winter Show can be seen on the Coding Train's livestream [here](http://www.youtube.com/watch?v=Az0l48Jirdg) (at 1:02:15).
+A more in-depth look into the functionality and process of this project can be found on [my blog](https://wp.nyu.edu/yonatanrozin/space-mapper-car/). A quick demonstration from a top-down view (recommended) can be found [here](https://youtu.be/fFMmIjmDYiY) and a live demonstration from the ITP 2020 Winter Show can be seen on the Coding Train's livestream [here](http://www.youtube.com/watch?v=Az0l48Jirdg) (at 1:02:15).
 
 ## Introduction
 
@@ -49,5 +49,4 @@ For users and developers"
 ## Credits
 
 - A huge thanks to [David Rios](https://riosriosrios.com/) for bestowing upon me and my other classmates the knowledge and inspiration necessary to make this project happen!
-- Additional thanks to all the ITP students and faculty involved in curating this year's virtual [ITP Winter Show](https://itp.nyu.edu/shows/winter2020/)
-- Finally, a shoutout to [Dan Shiffman](https://shiffman.net/) for showcasing a demonstration of my project during a livestream of the ITP Winter Show on his channel [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)!
+- Additional thanks to all the ITP students and faculty involved in curating this year's virtual [ITP Winter Show](https://itp.nyu.edu/shows/winter2020/) and a special shoutout to [Dan Shiffman](https://shiffman.net/) for showcasing a demonstration of my project during a livestream of the show on his channel [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)!
